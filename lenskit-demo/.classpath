@@ -22,5 +22,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="libs/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="libs/guava-15.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
