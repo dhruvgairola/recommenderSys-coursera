@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.6" errors="0" skipped="0" tests="1" name="com.dhruvg.lenskit.core.AppTest">
+<testsuite failures="0" time="0.071" errors="0" skipped="0" tests="1" name="com.dhruvg.lenskit.core.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries"/>
@@ -28,7 +28,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/dhruvgairola/Documents/Workspace/eclipse/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf6741820285964671996.tmp"/>
+    <property name="classworlds.conf" value="/Users/dhruvgairola/Documents/Workspace/eclipse/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf4158328053678344048.tmp"/>
     <property name="sun.jnu.encoding" value="MacRoman"/>
     <property name="java.library.path" value=".:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -66,5 +66,5 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.267" classname="com.dhruvg.lenskit.core.AppTest" name="testApp"/>
+  <testcase time="0.007" classname="com.dhruvg.lenskit.core.AppTest" name="testApp"/>
 </testsuite>
